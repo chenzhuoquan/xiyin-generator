@@ -1,7 +1,7 @@
-package com.yupi.yuaicodemother.exception;
+package com.xiyin.aicodemother.exception;
 
-import com.yupi.yuaicodemother.common.BaseResponse;
-import com.yupi.yuaicodemother.common.ResultUtils;
+import com.xiyin.aicodemother.common.BaseResponse;
+import com.xiyin.aicodemother.common.ResultUtils;
 import io.swagger.v3.oas.annotations.Hidden;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.ExceptionHandler;

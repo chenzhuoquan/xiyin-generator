@@ -1,6 +1,12 @@
 spring:
   application:
-    name: yu-ai-code-mother-backend
+    name: ai-code-mother-backend
+  # mysql
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/ai_code_mother
+    username: root
+    password: 665432100
 server:
   port: 8123
   servlet:
@@ -10,7 +16,7 @@ springdoc:
   group-configs:
     - group: 'default'
       paths-to-match: '/**'
-      packages-to-scan: com.yupi.yuaicodemother.controller
+      packages-to-scan: com.xiyin.aicodemother.controller
 # knife4j
 knife4j:
   enable: true

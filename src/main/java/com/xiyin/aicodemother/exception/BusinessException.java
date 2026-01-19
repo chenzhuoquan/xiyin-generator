@@ -1,4 +1,4 @@
-package com.yupi.yuaicodemother.exception;
+package com.xiyin.aicodemother.exception;
 
 import lombok.Getter;
 

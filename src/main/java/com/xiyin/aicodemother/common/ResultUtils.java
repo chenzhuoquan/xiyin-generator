@@ -1,6 +1,6 @@
-package com.yupi.yuaicodemother.common;
+package com.xiyin.aicodemother.common;
 
-import com.yupi.yuaicodemother.exception.ErrorCode;
+import com.xiyin.aicodemother.exception.ErrorCode;
 
 /**
  * 快速构造响应结果的工具类

@@ -1,4 +1,4 @@
-package com.yupi.yuaicodemother.common;
+package com.xiyin.aicodemother.common;
 
 import lombok.Data;
 

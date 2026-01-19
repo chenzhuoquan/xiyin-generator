@@ -1,6 +1,6 @@
-package com.yupi.yuaicodemother.common;
+package com.xiyin.aicodemother.common;
 
-import com.yupi.yuaicodemother.exception.ErrorCode;
+import com.xiyin.aicodemother.exception.ErrorCode;
 import lombok.Data;
 
 import java.io.Serializable;
